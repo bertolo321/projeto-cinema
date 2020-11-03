@@ -5,7 +5,7 @@
  * Reponsável por carregar o template, povoar e exibir a view, povoar e incluir arquivos PHP no sistem.
  * Arquitetura MVC!
  * 
- * @copyright (c) 2014, Robson V. Leite UPINSIDE TECNOLOGIA
+ * @copyright (c) 2014, André Bertolo
  */
 class View {
 
