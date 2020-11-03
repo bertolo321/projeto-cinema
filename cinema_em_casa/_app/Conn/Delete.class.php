@@ -4,7 +4,7 @@
  * <b>Delete.class:</b>
  * Classe responsável por deletar genéricamente no banco de dados!
  * 
- * @copyright (c) 2014, Robson V. Leite UPINSIDE TECNOLOGIA
+ * @copyright (c) 2014, André Bertolo
  */
 class Delete extends Conn {
 
