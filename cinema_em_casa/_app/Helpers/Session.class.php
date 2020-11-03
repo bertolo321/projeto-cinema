@@ -4,7 +4,7 @@
  * Session.class [ HELPER ]
  * Responsável pelas estatísticas, sessões e atualizações de tráfego do sistema!
  * 
- * @copyright (c) 2014, Robson V. Leite UPINSIDE TECNOLOGIA
+ * @copyright (c) 2014, André Bertolo
  */
 class Session {
 
